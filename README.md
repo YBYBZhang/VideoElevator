@@ -4,9 +4,11 @@
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=YBYBZhang/VideoElevator)
 
 
+https://github.com/YBYBZhang/VideoElevator/assets/40799060/f850bc9c-ccf6-48b3-8011-394986aade71
 
 **VideoElevator** aims to elevate the quality of generated videos with text-to-image diffusion models. It is *training-free* and *plug-and-play* to support cooperation of various text-to-video and text-to-image diffusion models.
 
+## Method
 
 <p align="center">
 <img src="assets/method.png" width="1080px"/> 
