@@ -3,7 +3,8 @@
 [![Project](https://img.shields.io/badge/Project-Website-orange)](https://videoelevator.github.io/)
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=YBYBZhang/VideoElevator)
 
-https://videoelevator.github.io/videos/project_teaser.mp4
+
+
 **VideoElevator** aims to elevate the quality of generated videos with text-to-image diffusion models. It is *training-free* and *plug-and-play* to support cooperation of various text-to-video and text-to-image diffusion models.
 
 
