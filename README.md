@@ -1,5 +1,5 @@
 # VideoElevator
-[![arXiv](https://img.shields.io/badge/arXiv-2305.13077-b31b1b.svg)](https://arxiv.org/abs/xxxx)
+[![arXiv](https://img.shields.io/badge/arXiv-2403.05438-b31b1b.svg)](https://arxiv.org/abs/2403.05438)
 [![Project](https://img.shields.io/badge/Project-Website-orange)](https://videoelevator.github.io/)
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=YBYBZhang/VideoElevator)
 
@@ -18,4 +18,4 @@ https://github.com/YBYBZhang/VideoElevator/assets/40799060/f850bc9c-ccf6-48b3-80
 
 **Bottom:** VideoElevator explicitly decompose each step into temporal motion refining and spatial quality elevating, where the former encapsulates T2V to enhance temporal consistency and the latter harnesses T2I to provide more faithful details, e.g., dressed in suit. Empirically, applying T2V in several timesteps is enough to ensure temporal consistency.
 
-## The paper and code will be released soon.
+## The code will be released in this month.
