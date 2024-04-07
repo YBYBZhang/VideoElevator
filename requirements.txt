@@ -1,0 +1,11 @@
+accelerate==0.28.0
+diffusers==0.24.0
+einops==0.7.0
+fastapi==0.88.0
+ffmpy==0.3.1
+imageio==2.31.1
+opencv-python==4.7.0.72
+peft==0.10.0
+rotary-embedding-torch==0.5.2
+torch==2.0.1+cu118
+torchvision==0.15.2
